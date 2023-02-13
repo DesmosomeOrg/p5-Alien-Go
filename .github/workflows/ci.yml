@@ -9,7 +9,7 @@ on:
 env:
   PKG_NAME: Go
   PKG_UBUNTU: golang
-  PKG_HOMEBREW: go
+  PKG_HOMEBREW: go@1.17
   PKG_MSYS2_MINGW64: mingw-w64-x86_64-go
   PKG_MSYS2_MINGW64_DEPS: >-
     base-devel
